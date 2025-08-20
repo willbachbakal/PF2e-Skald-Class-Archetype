@@ -28,7 +28,7 @@
       "name": "skald-class-archetype",
       "label": "Skald (Class Archetype)",
       "path": "packs/skald-class-archetype",
-      "type": "Journal Entry",
+      "type": "Journal",
       "system": "pf2e",
       "flags": {}
     }
