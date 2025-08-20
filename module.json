@@ -1,6 +1,6 @@
 {
-  "id": "dual-shield-options",
-  "title": "Dual Shield Options",
+  "id": "skald-class-archetype",
+  "title": "Skald Class Archetype",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -8,7 +8,7 @@
     "verified": "13",
     "maximum": "13"
   },
-  "description": "A couple of feats and an item for dual-shield fighting in Pathfinder Second Edition.",
+  "description": "A gish class archetype for the Bard class in Pathfinder Second Edition, focusing on prolonging and enhancing martial compositions.",
   "authors": [
     {
       "name": "Teridax68",
@@ -17,10 +17,18 @@
   ],
   "packs": [
     {
-      "name": "dual-shield-options",
-      "label": "Dual Shield Options",
-      "path": "packs/dual-shield-options",
+      "name": "skald-feats",
+      "label": "Skald Feats",
+      "path": "packs/skald-feats",
       "type": "Item",
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "skald-class-archetype",
+      "label": "Skald (Class Archetype)",
+      "path": "packs/skald-class-archetype",
+      "type": "Journal Entry",
       "system": "pf2e",
       "flags": {}
     }
@@ -32,5 +40,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": "https://homebrewery.naturalcrit.com/share/58XdkdLOpVOg"
+  "readme": "https://homebrewery.naturalcrit.com/share/fq4GE2nhpjmp"
 }
