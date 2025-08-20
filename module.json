@@ -1,6 +1,6 @@
 {
-  "id": "dual-shield-defense",
-  "title": "Dual Shield Defense",
+  "id": "dual-shield-options",
+  "title": "Dual Shield Options",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -8,7 +8,7 @@
     "verified": "13",
     "maximum": "13"
   },
-  "description": "A 1st-level fighter feat for Pathfinder Second Edition, allowing a character to fight better using a pair of shields.",
+  "description": "A couple of feats and an item for dual-shield fighting in Pathfinder Second Edition.",
   "authors": [
     {
       "name": "Teridax68",
@@ -17,9 +17,9 @@
   ],
   "packs": [
     {
-      "name": "dual-shield-defense",
-      "label": "Dual Shield Defense",
-      "path": "packs/dual-shield-defense",
+      "name": "dual-shield-options",
+      "label": "Dual Shield Options",
+      "path": "packs/dual-shield-options",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
