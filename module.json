@@ -17,9 +17,9 @@
   ],
   "packs": [
     {
-      "name": "skald-feats",
-      "label": "Skald Feats",
-      "path": "packs/skald-feats",
+      "name": "skald-feats-and-features",
+      "label": "Skald Feats & Features",
+      "path": "packs/skald-feats-and-features",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
