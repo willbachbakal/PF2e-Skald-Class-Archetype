@@ -5,8 +5,8 @@
   "library": "false",
   "compatibility": {
     "minimum": "11",
-    "verified": "13",
-    "maximum": "13"
+    "verified": "14",
+    "maximum": "14"
   },
   "description": "A gish class archetype for the Bard class in Pathfinder Second Edition, focusing on prolonging and enhancing martial compositions.",
   "authors": [
